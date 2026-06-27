@@ -1,0 +1,13 @@
+```gitignore
+# Ambiente virtual do projeto
+.venv/
+
+# Variáveis locais e segredos
+.env
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Configurações locais do VS Code
+.vscode/
