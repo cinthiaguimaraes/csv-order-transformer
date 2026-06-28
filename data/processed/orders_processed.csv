@@ -1,0 +1,6 @@
+order_id,customer_name,city,order_value,order_category
+1,Ana,Sao Paulo,120.5,high_value
+2,Bruno,Rio de Janeiro,80.0,standard
+3,Carla,Belo Horizonte,250.0,high_value
+4,Diego,Curitiba,95.5,standard
+5,Elisa,Sao Paulo,180.75,high_value
