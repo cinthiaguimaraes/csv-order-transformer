@@ -24,7 +24,7 @@ with input_file.open(mode="r", encoding="utf-8", newline="") as input_csv:
         for order in reader:
             order_value = float(order["order_value"])
 
-            if order_value > 100:
+            if order_value >= 100:
                 order_category = "high_value"
             else:
                 order_category = "standard"
