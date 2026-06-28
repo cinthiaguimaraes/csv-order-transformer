@@ -4,3 +4,4 @@ order_id,customer_name,city,order_value,order_category
 3,Carla,Belo Horizonte,250.0,high_value
 4,Diego,Curitiba,95.5,standard
 5,Elisa,Sao Paulo,180.75,high_value
+6,Fernanda,Recife,100.0,standard
